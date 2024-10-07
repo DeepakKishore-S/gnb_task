@@ -1,5 +1,3 @@
-Here’s a tailored README for your GitHub repository, based on the project details you provided earlier. You can adjust any parts to better fit your project's specifics.
-
 ---
 
 # GNB Task
