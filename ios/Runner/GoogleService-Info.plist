@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>2907392182-7pktj60j5h86ohta2eqtrpchefpvk1kt.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.2907392182-7pktj60j5h86ohta2eqtrpchefpvk1kt</string>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>2907392182-6i0h4rhndvatcq17vqcrhvr6c613n9hc.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyA3B5nPZHLqUoLvGxRrhreLmWiwCjofnCk</string>
+	<key>GCM_SENDER_ID</key>
+	<string>2907392182</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.example.gnbTask</string>
+	<key>PROJECT_ID</key>
+	<string>warrior-5f65c</string>
+	<key>STORAGE_BUCKET</key>
+	<string>warrior-5f65c.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:2907392182:ios:0092334c1f4b528e6abe17</string>
+	<key>DATABASE_URL</key>
+	<string>https://warrior-5f65c.firebaseio.com</string>
+</dict>
+</plist>
